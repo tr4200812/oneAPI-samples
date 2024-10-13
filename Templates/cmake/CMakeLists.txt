@@ -1,5 +1,6 @@
 #==============================================================
-# Copyright © Intel Corporation
+# Copyright 
+ Intel Corporation
 #
 # SPDX-License-Identifier: MIT
 #=============================================================
